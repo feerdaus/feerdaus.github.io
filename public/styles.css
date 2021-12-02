@@ -1,0 +1,33 @@
+html {
+  scroll-behavior: smooth;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Poppins", sans-serif;
+}
+
+* {
+  font-family: "Nunito", sans-serif;
+}
+
+.quotes {
+  max-width: 340px;
+}
+
+.icon-container {
+  max-width: 10rem;
+}
+
+.triangle {
+  width: 0;
+  height: 0;
+  border-bottom: 40px solid white;
+  border-left: 40px solid transparent;
+  margin-left: auto;
+}
+
